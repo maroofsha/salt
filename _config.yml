@@ -1,0 +1,35 @@
+# site settings
+title: salt
+subtitle: by HTML5
+email: contactmaroofsha@gmail.com
+description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+baseurl: "/salt" # the subpath of your site, e.g. /blog
+url: "https://maroofsha.github.io/salt" # the base hostname & protocol for your site
+author:
+street_address: 1234 Somewhere Road
+city: Nashville
+state: TN
+zip_code: 55555
+country: United States of America
+phone: (716) 555-5555
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: 
+googleplus_url: https://plus.google.com/
+instagram_url: https://instagram.com
+linkedin_url: https://www.linkedin.com/
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
